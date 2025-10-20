@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "total": 2,
+    "page": 1,
+    "limit": 5,
+    "totalPages": 1
+  },
+  "data": [
+    {
+      "id": "1",
+      "name": "Laptop",
+      "description": "High-performance laptop with 16GB RAM",
+      "price": 1200,
+      "category": "electronics",
+      "inStock": true
+    },
+    {
+      "id": "2",
+      "name": "Smartphone",
+      "description": "Latest model with 128GB storage",
+      "price": 800,
+      "category": "electronics",
+      "inStock": true
+    }
+  ]
+}
